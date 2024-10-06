@@ -28,14 +28,22 @@ A Python-based tool for data analysis and visualization that allows users to loa
 
 Examples :
 
+
+
 ANALYSE DATASET
+
+
 ![image](https://github.com/user-attachments/assets/7ca86ba1-00a5-48c8-bc5c-94f5a901e820)
 
 CHECK MISSING DATA
+
+
 ![image](https://github.com/user-attachments/assets/2c530f6a-493a-4f41-8e1e-7a23257236f2)
 
 
+
 DATA ANALYST
+
 ![image](https://github.com/user-attachments/assets/bde15e69-471a-474d-a5a7-b0d2d8a0cfff)
 
 ![image](https://github.com/user-attachments/assets/08e14cf6-1d04-4146-af49-0221246feeae)

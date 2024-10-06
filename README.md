@@ -25,10 +25,10 @@ A Python-based tool for data analysis and visualization that allows users to loa
 You can install the required libraries using pip:
 
 ```bash
-pip install pandas matplotlib seaborn scikit-learn keras torch transformers
+pip install pandas matplotlib seaborn scikit-learn keras torch transformers ```
 
 
-##
+
 Examples :
 
 ANALYSE DATASET
